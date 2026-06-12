@@ -118,15 +118,25 @@ Perfect for:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-[![Aysar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysar06&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Aysar06)
+### 💻 Overall Stats
+[![Aysar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysar06&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/Aysar06)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysar06&layout=compact&theme=tokyonight)](https://github.com/Aysar06)
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aysar06&theme=tokyonight)](https://github.com/Aysar06)
+
+### 🎯 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysar06&layout=compact&theme=tokyonight&count_private=true)](https://github.com/Aysar06)
+
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aysar06&theme=tokyonight&hide_border=false&radius=10)](https://github.com/Aysar06)
 
 </div>
+
+> **💡 Tip:** These stats include both public & private contributions! Make sure your GitHub settings show "Contributions" on your profile.
 
 ---
 
