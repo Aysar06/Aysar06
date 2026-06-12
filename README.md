@@ -167,10 +167,8 @@ Turning ideas into engaging digital experiences that drive real business results
 
 ## 🎯 Quick Links
 
-- 🌐 **Portfolio**: *Coming soon*
-- 💼 **LinkedIn**: *Add your profile*
-- 🎨 **Dribbble**: *Add your profile*
-- 🛒 **Fiverr**: *Add your profile*
+- 🌐 **Portfolio**: https://launch-nest.vercel.app/
+- 🛒 **Fiverr**: https://www.fiverr.com/aisara_h 
 
 ---
 
