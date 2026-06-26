@@ -157,9 +157,9 @@ Turning ideas into engaging digital experiences that drive real business results
 
 <div align="center">
 
-| 📧 Email | 💬 WhatsApp | 📍 Location | 🐙 GitHub |
+| 📧 Email | 📍 Location | 🐙 GitHub |
 |----------|-----------|-----------|----------|
-| [aysarahassan.lis@gmail.com](mailto:aysarahassan.lis@gmail.com) | [+55 61 99653-9121](https://wa.me/5561996539121) | Brasília, Brazil 🇧🇷<br/>*(works worldwide)* | [@Aysar06](https://github.com/Aysar06) |
+| [aysarahassan.lis@gmail.com](mailto:aysarahassan.lis@gmail.com) | Brasília, Brazil 🇧🇷<br/>*(works worldwide)* | [@Aysar06](https://github.com/Aysar06) |
 
 </div>
 
