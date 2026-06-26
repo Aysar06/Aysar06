@@ -8,7 +8,6 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Aysar06?label=Follow&style=social)](https://github.com/Aysar06)
   [![Email Badge](https://img.shields.io/badge/Email-aysarahassan.lis@gmail.com-blue?style=flat-square&logo=gmail)](mailto:aysarahassan.lis@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2061%2099653--9121-green?style=flat-square&logo=whatsapp)](https://wa.me/5561996539121)
   
 </div>
 
